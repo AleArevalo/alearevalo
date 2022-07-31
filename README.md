@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alearevalo.alearevalo)![](https://hit.yhype.me/github/profile?user=alearevalo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alearevalo.alearevalo)![](https://hit.yhype.me/github/profile?user_id=21693533)
 
 # Hola, Hello, Bonjour, Hallo, Ciao, Olá, Namaste, Aloha, Ni Hao! 🙌🏽
 
@@ -10,28 +10,29 @@
 [![Icloud Badge](https://img.shields.io/badge/-hello@alearevalo.dev-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@alearevalo.dev)](mailto:hello@alearevalo.dev)
 
 - 🔭 I’m currently working on Santander Bank for Galatea.
-- 🌱 I’m currently learning good practices.
+- 🚀 I’m currently learning good development practices.
+- 🌱 I’m currently changing habits along to meditation.
 
 ## 👨‍💻 Technologies that I like and that I have applied...
 
-![PHP](https://img.shields.io/badge/-PHP-2E64FE?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-FE2E2E?style=flat&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-FE2E2E?style=flat&logo=oracle&logoColor=white)
-![Cpanel](https://img.shields.io/badge/Cpanel-FF9900?style=flat&logo=Cpanel&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-8a3ab9?style=flat&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00758F?style=flat&logo=netlify&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-1C1C1C?style=flat&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+<code>![PHP](https://img.shields.io/badge/-PHP-2E64FE?style=flat&logo=php&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)</code>
+<code>![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)</code>
+<code>![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)</code>
+<code>![Angular](https://img.shields.io/badge/-Angular-FE2E2E?style=flat&logo=angular&logoColor=white)</code>
+<code>![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)</code>
+<code>![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)</code>
+<code>![Oracle](https://img.shields.io/badge/-Oracle-FE2E2E?style=flat&logo=oracle&logoColor=white)</code>
+<code>![Cpanel](https://img.shields.io/badge/Cpanel-FF9900?style=flat&logo=Cpanel&logoColor=white)</code>
+<code>![Heroku](https://img.shields.io/badge/-Heroku-8a3ab9?style=flat&logo=heroku&logoColor=white)</code>
+<code>![Netlify](https://img.shields.io/badge/-Netlify-00758F?style=flat&logo=netlify&logoColor=white)</code>
+<code>![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)</code>
+<code>![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)</code>
+<code>![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)</code>
+<code>![GitHub](https://img.shields.io/badge/-GitHub-1C1C1C?style=flat&logo=github&logoColor=white)</code>
+<code>![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)</code>
+<code>![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)</code>
+<code>![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)</code>
 
 <p align="center">
     <a href="https://github.com/alearevalo#gh-light-mode-only">
