@@ -41,7 +41,7 @@
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
     </a>
     <a href="https://github.com/alearevalo#gh-dark-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&custom_title=alearevalo%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&custom_title=alearevalo%27s%20GitHub%20Stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
     </a>
     <a href="https://github.com/alearevalo#gh-dark-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
