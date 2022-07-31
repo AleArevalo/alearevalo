@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alearevalo.alearevalo)![](https://hit.yhype.me/github/profile?user=alearevalo)
 
-# Hola, Hello, Bonjour, Hallo, Ciao, Olá, Namaste, Aloha, Ni Hao! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30">
+# Hola, Hello, Bonjour, Hallo, Ciao, Olá, Namaste, Aloha, Ni Hao! 🙌🏽
 
 🤓 I'm Alexander Arévalo, currently, working as a fullstack developer. I'm always learning new technologies. Here something about me:
 
@@ -41,7 +41,7 @@
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
     </a>
     <a href="https://github.com/alearevalo#gh-dark-mode-only">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&custom_title=alearevalo%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
     </a>
     <a href="https://github.com/alearevalo#gh-dark-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alearevalo&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
